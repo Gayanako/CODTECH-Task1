@@ -34,5 +34,4 @@ User Input Validation:
 The program validates user inputs to ensure they are appropriate for the selected operation (e.g., numerical values for numbers, valid operation choices).
 ![image](https://github.com/Gayanako/CODTECH-Task1/assets/136666310/dc968390-a650-4073-902b-22b4fbdaac63)
 
-![image](https://github.com/Gayanako/CODTECH-Task1/assets/136666310/f12daacc-d681-4a05-bef9-d425c55f0114)
 
